@@ -43,9 +43,9 @@ The class library, UtilityLibraries.StringLibrary, contains a method named Start
 StartsWithUpper is implemented as an extension method so that you can call it as if it were a member of the String class.
 
 Program.cs:
-
+```
 using UtilityLibraries;
-
+```
 This code (placed at the top of Program.cs) allows you to incorporate the Class1.cs class library on the apps Program.cs page.
 You must also, in Solution Explorer, right-click the ShowCase project's Dependencies node, and select Add Project Reference
 
