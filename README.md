@@ -1,5 +1,7 @@
 # ClassLibraryProjects
 
+This code is from Visual Studio 2022, using .Net 6.0 and C#.
+
 Class Libraries
 
 1.	Create a Solution
