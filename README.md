@@ -13,6 +13,7 @@ SOLUTION:
 ClassLibraryProjects
 
 PROJECTS:
+
 ShowCase -	(Program.cs)
 
 StringLibrary -	(Class1.cs)
