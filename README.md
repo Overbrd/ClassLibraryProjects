@@ -14,6 +14,7 @@ ClassLibraryProjects
 
 PROJECTS:
 ShowCase -	(Program.cs)
+
 StringLibrary -	(Class1.cs)
 
 A class library defines types and methods that are called by an application. 
